@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **ERP Next , Frappe**
 
-- 💬 Ask me about **Java , HTML , CSS , J2EE , Frappe**
+- 💬 Ask me about **Java , HTML , CSS , Frappe , Javascript , Pythoon **
 
 - 📫 How to reach me **m.vengadesh2019@gmail.com**
 
