@@ -2,7 +2,7 @@
 <img src="github-header-image.png" alt="vengadesh-ts" /> </p>
 
 <h1 align="center">Hi 👋, I'm Vengadesh M</h1>
-<h3 align="center">A passionate fullstack Web developer from India</h3>
+<h3 align="center">A passionate frappe developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vengadesh-ts&label=Profile%20views&color=0e75b6&style=flat" alt="vengadesh-ts" /> </p>
 
@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **ERP Next , Frappe**
 
-- 💬 Ask me about **Java , HTML , CSS , Frappe , Javascript , Pythoon **
+- 💬 Ask me about ** , HTML , CSS , Frappe , Javascript , Python **
 
 - 📫 How to reach me **m.vengadesh2019@gmail.com**
 
